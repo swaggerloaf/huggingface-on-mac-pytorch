@@ -7,6 +7,7 @@ Huggingface on mac m4 with pytorch
 <code>brew install uv</code>
 # install github tools useful for logging into github
 <code>brew install gh</code>
+
 <code>gh auth login</code>
 
 set your git user.name and email
